@@ -9,11 +9,11 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently building scalable **Full Stack & AI-powered systems**
-- 🏆 Grand Finalist – Smart India Hackathon
-- 🤖 Interested in Machine Learning, Computer Vision & Agentic AI
-- 🌐 Portfolio: **https://rajarshi-mondal.vercel.app/**
-- 📫 Reach me at: **mrajarshi570@gmail.com**
+- 🔭 Building scalable Full Stack & AI systems  
+- 🏆 Smart India Hackathon Grand Finalist  
+- 🤖 Exploring Machine Learning & Computer Vision  
+- 🌐 Portfolio: https://rajarshi-mondal.vercel.app/  
+- 📫 Email: mrajarshi570@gmail.com  
 
 ---
 
@@ -42,7 +42,6 @@
 # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bash" />
 </p>
@@ -50,15 +49,13 @@
 ---
 
 ### ⚡ Frameworks & Libraries
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,redux,tailwind,bootstrap,opencv,tensorflow,pytorch,scikitlearn" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,redux,tailwind,opencv,tensorflow,pytorch,scikitlearn" />
 </p>
 
 ---
 
 ### 🧠 Databases
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 </p>
@@ -66,7 +63,6 @@
 ---
 
 ### ☁️ Cloud & DevOps
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,firebase,git,linux" />
 </p>
@@ -76,8 +72,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajarshi44&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshi44&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajarshi44&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshi44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
@@ -98,10 +94,10 @@
 
 ---
 
-# 💡 Quote I Believe In
+# 💡 Motto
 
 <p align="center">
-  <i>"Build. Break. Learn. Repeat."</i>
+  <i>Build. Break. Learn. Repeat.</i>
 </p>
 
 ---
