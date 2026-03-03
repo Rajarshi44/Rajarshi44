@@ -72,18 +72,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajarshi44&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshi44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajarshi44&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshi44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajarshi44&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rajarshi44&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajarshi44&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
 ---
 
 # 🐍 Contribution Snake
